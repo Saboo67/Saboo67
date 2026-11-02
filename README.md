@@ -2,6 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 Developer, Student.
+<a href="https://www.github.com/Saboo67" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Saboo67?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 -------------------
 
 I am an IT student who is interested in programming, web development, and technology.
